@@ -1,0 +1,57 @@
+Shaymin @ Life Orb  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Seed Flare  
+- Earth Power  
+- Synthesis  
+- Dazzling Gleam  
+
+Blastoise @ Blastoisinite  
+Ability: Rain Dish  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Scald  
+- Rapid Spin  
+- Aura Sphere  
+- Dragon Pulse  
+
+Rotom-Heat @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Overheat  
+- Thunderbolt  
+- Shadow Ball  
+
+Mandibuzz @ Leftovers  
+Ability: Overcoat  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Defog  
+- Foul Play  
+- Roost  
+- U-turn  
+
+Machamp @ Flame Orb  
+Ability: Guts  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Close Combat  
+- Knock Off  
+- Stone Edge  
+- Bullet Punch  
+
+Doublade @ Eviolite  
+Ability: No Guard  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Swords Dance  
+- Shadow Sneak  
+- Sacred Sword  
+- Destiny Bond  
+
